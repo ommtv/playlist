@@ -1,78 +1,76 @@
 #EXTM3U url-tvg="http://epg.one/ru.xml.gz"
 
-#EXTINF:-1 group-title="ТВ" tvg-id="146" tvg-logo="https://ommtv.github.io/logos/tv/146.png" tvg-shift="-2", Первый канал
+#EXTINF:-1 tvg-id="146" tvg-logo="https://ommtv.github.io/logos/tv/146.png" tvg-shift="-2", Первый канал
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="711" tvg-logo="https://ommtv.github.io/logos/tv/711.png" tvg-shift="-2", Россия 1
+#EXTINF:-1 tvg-id="711" tvg-logo="https://ommtv.github.io/logos/tv/711.png" tvg-shift="-2", Россия 1
 https://stream.smotrim.ru/hls/russia1_plus2/playlist_4.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="1683" tvg-logo="https://ommtv.github.io/logos/tv/1683.png" tvg-shift="-2", Россия 24
+#EXTINF:-1 tvg-id="1683" tvg-logo="https://ommtv.github.io/logos/tv/1683.png" tvg-shift="-2", Россия 24
 https://live-gtrk.smotrim.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="6682" tvg-logo="https://ommtv.github.io/logos/tv/6682.png", ОТВ
+#EXTINF:-1 tvg-id="6682" tvg-logo="https://ommtv.github.io/logos/tv/6682.png", ОТВ
 https://vd.obltv.ru/watch/air_sd.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="6776" tvg-logo="https://ommtv.github.io/logos/tv/6776.png", Эхо ТВ 24
+#EXTINF:-1 tvg-id="6776" tvg-logo="https://ommtv.github.io/logos/tv/6776.png", Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="405" tvg-logo="https://ommtv.github.io/logos/tv/405.png" tvg-shift="-2", Звезда
+#EXTINF:-1 tvg-id="405" tvg-logo="https://ommtv.github.io/logos/tv/405.png" tvg-shift="-2", Звезда
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="187" tvg-logo="https://ommtv.github.io/logos/tv/187.png" tvg-shift="-2", Россия К
+#EXTINF:-1 tvg-id="187" tvg-logo="https://ommtv.github.io/logos/tv/187.png" tvg-shift="-2", Россия К
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NTAG/variant.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png", История
+#EXTINF:-1 tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png", История
 https://s7.iptv-24.net/1266/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png", Зоопарк
+#EXTINF:-1 tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png", Зоопарк
 https://s7.iptv-24.net/1417/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="2498" tvg-logo="https://ommtv.github.io/logos/tv/2498.png", В мире животных
+#EXTINF:-1 tvg-id="2498" tvg-logo="https://ommtv.github.io/logos/tv/2498.png", В мире животных
 https://s7.iptv-24.net/1404/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="2432" tvg-logo="https://ommtv.github.io/logos/tv/2432.png", Живая планета
+#EXTINF:-1 tvg-id="2432" tvg-logo="https://ommtv.github.io/logos/tv/2432.png", Живая планета
 https://s7.iptv-24.net/1250/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png", Загородный
+#EXTINF:-1 tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png", Загородный
 https://s7.iptv-24.net/1410/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png", Усадьба
+#EXTINF:-1 tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png", Усадьба
 https://s7.iptv-24.net/1427/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
+#EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="2026" tvg-logo="https://ommtv.github.io/logos/tv/2026.png", Бобёр
+#EXTINF:-1 tvg-id="2026" tvg-logo="https://ommtv.github.io/logos/tv/2026.png", Бобёр
 https://fs.uplink.kz/bober/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-#EXTINF:-1 group-title="ТВ" tvg-id="2627" tvg-logo="https://ommtv.github.io/logos/tv/2627.png", Диалоги о рыбалке
-
-#EXTINF:-1 group-title="ТВ" tvg-id="11341" tvg-logo="https://ommtv.github.io/logos/tv/11341.png", КиноСезон
+#EXTINF:-1 tvg-id="11341" tvg-logo="https://ommtv.github.io/logos/tv/11341.png", КиноСезон
 https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="267" tvg-logo="https://ommtv.github.io/logos/tv/267.png", Viju TV1000 Русское
+#EXTINF:-1 tvg-id="267" tvg-logo="https://ommtv.github.io/logos/tv/267.png", Viju TV1000 Русское
 https://s7.iptv-24.net/1059/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png", Наше новое кино
+#EXTINF:-1 tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png", Наше новое кино
 https://s7.iptv-24.net/1051/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png", Дом кино
+#EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png", Дом кино
 https://s7.iptv-24.net/1054/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png", Дом кино Премиум
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png", Дом кино Премиум
 https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-#EXTINF:-1 group-title="ТВ" tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png", Комедия
+#EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png", Комедия
 http://176.118.197.101/Komediya/index.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
+#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
 https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-#EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция
 https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png", Радио 7 на семи холмах. Музыка любви
+#EXTINF:-1 tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png" radio="true", Радио 7 на семи холмах. Музыка любви
 https://radio7.hostingradio.ru:8040/radio7_love64.aacp
